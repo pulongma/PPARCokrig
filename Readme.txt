@@ -1,0 +1,1 @@
+This Github repo contains the code to produce results in the paper titled "Multifidelity Computer Model Emulation with High-Dimensional Output: An Application to Storm Surge" by Ma, P., Karagiannis, G., Konomi, B.A., Asher, T.G., Toro, G.R., Cox, A.T. (2021). The arXiv link to the paper is https://arxiv.org/abs/1909.01836. 
